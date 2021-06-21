@@ -2,7 +2,7 @@ import chatbot
 import pymysql
 import bcrypt
 
-db = pymysql.connect(host="localhost", user="Luit", password="supersafepassword123", database="chatbot")
+db = pymysql.connect(host="localhost", user="username", password="supersafepassword123", database="chatbot")
 
 cursor = db.cursor()
 
