@@ -1,6 +1,5 @@
 import time, random, re, qa
 
-#username = 'Luit'
 name_chatbot = 'soofbot'
 
 def metoyou(message):
